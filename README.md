@@ -25,9 +25,9 @@
 
 ### 🔗 Let's get in touch:
     
-<div id="socials" align="center">
+<div id="socials" ">
   
-  • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"/> [LinkedIn](https://https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)
+  • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"/> [LinkedIn](https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)
 
   • <img src="https://icons8.com/icon/63306/telegram-app" width="10" height="10"/> [Telegram](https://msng.link/o?vvorobiov=tg)
 </div>

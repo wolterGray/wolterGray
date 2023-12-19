@@ -27,7 +27,8 @@
     
 <div id="socials" align="center">
   <a href="[linkedin-url](https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)">
-    ![Static Badge](https://img.shields.io/badge/Linkedin)
+    <img src="https://img.shields.io/badge/Linkedin
+"/>
 
 "/>
   </a>

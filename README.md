@@ -11,15 +11,15 @@
 
 #### 🌐 My skills include:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /> React.js for creating dynamic user interfaces.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="10" height="10" /> React.js for creating dynamic user interfaces.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="20" height="20"/> JavaScript for developing functional and interactive code.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="10" height="10"/> JavaScript for developing functional and interactive code.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20" height="20"/> HTML and CSS to give structure and style to web applications.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="10" height="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="10" height="10"/> HTML and CSS to give structure and style to web applications.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="20"/> SCSS to improve and simplify work with cascading style sheets.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="10" height="10"/> SCSS to improve and simplify work with cascading style sheets.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> Git for efficient version control and collaboration.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="10" height="10"/> Git for efficient version control and collaboration.
 
 #### 🌱 _Looking for new opportunities and projects where I can apply my knowledge and improve my skills._
 

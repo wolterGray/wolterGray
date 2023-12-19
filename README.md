@@ -29,7 +29,7 @@
   
   • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"/> [LinkedIn](https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)
 
-  • <img src="https://icons8.com/icon/63306/telegram-app" width="10" height="10"/> [Telegram](https://msng.link/o?vvorobiov=tg)
+  • <img src="https://icons8.com/icon/25n4hOEoY7ss/telegram-app" width="10" height="10"/> [Telegram](https://msng.link/o?vvorobiov=tg)
 </div>
 
 🚀 _“Code is an art, and I am constantly improving in its creation!”_

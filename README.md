@@ -27,7 +27,8 @@
     
 <div id="socials" align="center">
   <a href="[linkedin-url](https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)">
-    <img src="[https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-vorobiov-bba858293%2F](https://img.shields.io/badge/Linkedin)
+    ![Static Badge](https://img.shields.io/badge/Linkedin)
+
 "/>
   </a>
   <a href="[telegram-url](https://msng.link/o?vvorobiov=tg)">

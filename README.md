@@ -26,14 +26,10 @@
 ### 🔗 Let's get in touch:
     
 <div id="socials" align="center">
-  <a href="[linkedin-url](https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)">
-    <img src="https://img.shields.io/badge/Linkedin"/>
-"/>
-  </a>
-  <a href="[telegram-url](https://msng.link/o?vvorobiov=tg)">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-vorobiov-bba858293%2F
-"/>
-  </a>
+  
+  • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"/> [LinkedIn](https://https://www.linkedin.com/in/vladimir-vorobiov-bba858293/)
+
+  • <img src="https://icons8.com/icon/63306/telegram-app" width="10" height="10"/> [Telegram](https://msng.link/o?vvorobiov=tg)
 </div>
 
 🚀 _“Code is an art, and I am constantly improving in its creation!”_

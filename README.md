@@ -17,7 +17,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="15" height="15" /> Axios for API requests.
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="15" height="15" /> Framer Motion for app animation.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" width="15" height="15" /> Framer Motion for app animation.
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="15" height="15"/> JavaScript for developing functional and interactive code.
 

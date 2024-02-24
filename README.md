@@ -13,7 +13,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15" /> React.js for creating dynamic user interfaces.
   
-  <img src="" width="15" height="15" /> Tailwind for styling.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="15" height="15" /> TailwindCSS for styling.
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="15" height="15" /> MeterialUI for styling components.
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="15" height="15" /> Axios for API requests.
   
